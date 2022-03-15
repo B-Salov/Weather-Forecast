@@ -1,0 +1,14 @@
+[
+  {
+    "Gamburg": {
+      "temp": 8.73,
+      "feels_like": 8.73,
+      "temp_min": 7.49,
+      "temp_max": 11.22,
+      "pressure": 1026,
+      "humidity": 77,
+      "sea_level": 1026,
+      "grnd_level": 1004
+    }
+  }
+]
