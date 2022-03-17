@@ -1,14 +1,35 @@
 [
   {
-    "Gamburg": {
-      "temp": 8.73,
-      "feels_like": 8.73,
-      "temp_min": 7.49,
-      "temp_max": 11.22,
-      "pressure": 1026,
-      "humidity": 77,
-      "sea_level": 1026,
-      "grnd_level": 1004
-    }
+    "Kiev": {
+      "temp": 2.07,
+      "feels_like": 2.07,
+      "temp_min": 2.07,
+      "temp_max": 3.7,
+      "pressure": 1038,
+      "humidity": 43
+    },
+    "time": "2022-03-17 13:45:23.139475"
+  },
+  {
+    "Berlin": {
+      "temp": 11.04,
+      "feels_like": 9.87,
+      "temp_min": 10.01,
+      "temp_max": 11.85,
+      "pressure": 1029,
+      "humidity": 64
+    },
+    "time": "2022-03-17 13:46:03.758151"
+  },
+  {
+    "Hannover": {
+      "temp": 8.23,
+      "feels_like": 5.77,
+      "temp_min": 7.26,
+      "temp_max": 9,
+      "pressure": 1028,
+      "humidity": 89
+    },
+    "time": "2022-03-17 13:45:53.913962"
   }
 ]
